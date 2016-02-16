@@ -1,0 +1,24 @@
+#titel
+{
+    -fx-font-size: 2.5em;
+    -fx-font-weight: bold;
+}
+
+.hoofding
+{
+    -fx-font-size: 1.5em;
+    -fx-font-weight: bold;
+}
+
+.foutbericht
+{
+    -fx-text-fill: red;
+}
+
+#status
+{
+    -fx-background-color: #b7d6ff;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 10px;
+}
